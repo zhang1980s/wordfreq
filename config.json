@@ -1,0 +1,15 @@
+{
+    "TargetValue":10,
+    "CustomizedMetricSpecification":{
+       "MetricName":"WordfreqBacklogPerInstance",
+       "Namespace":"Wordfreq",
+       "Dimensions":[
+          {
+             "Name":"Wordfreq",
+             "Value":"Wordfreq"
+          }
+       ],
+       "Statistic":"Average",
+       "Unit":"None"
+    }
+ }
